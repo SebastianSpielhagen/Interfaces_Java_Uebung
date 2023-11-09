@@ -1,2 +1,5 @@
-package org.spielhagen;public interface Playable {
+package org.spielhagen;
+
+public interface Playable {
+    void play();
 }
